@@ -1,3 +1,6 @@
+# Local-only; do not commit (confidential / large binaries)
+*.pdf
+
 .DS_Store
 Thumbs.db
 *.swp
