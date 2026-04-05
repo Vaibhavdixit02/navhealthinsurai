@@ -1,0 +1,146 @@
+[3/4/26, 10:14:09 AM] Manav Sevak: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[3/4/26, 10:14:09 AM] Manav Sevak: ‎‎‎Manav Sevak uses a default timer for disappearing messages in new chats. ‎New messages will disappear from this chat ‎90 days after they're sent, except when kept. ‎Tap to set your own default timer.
+[3/4/26, 10:14:09 AM] Manav Sevak: ‎Manav is a contact.
+[3/4/26, 9:56:28 AM] Manav Sevak: Hey - Manav here
+[3/4/26, 9:56:36 AM] Manav Sevak: Switching over here instead of text...easier for me
+[3/4/26, 9:56:38 AM] Manav Sevak: Ok with you?
+[3/4/26, 9:58:03 AM] Manav Sevak: https://www.a16z.news/p/infinite-healthcare
+[3/4/26, 9:58:04 AM] Manav Sevak: Good read
+[3/4/26, 9:58:18 AM] Vaibhav Dixit: Hey! Definitely, I wanted to ask you to shift here a few times because I spend all my time on whatsapp and love it but I got a vibe that you maybe used it only for personal stuff lol
+[3/4/26, 9:58:30 AM] Vaibhav Dixit: And it's a different number from the one I had
+[3/4/26, 9:59:17 AM] Vaibhav Dixit: So many of the bigger companies in the space that come up in my research are all a16z!
+[3/4/26, 9:59:27 AM] Manav Sevak: Hah all good. No need to be shy about asking
+[3/4/26, 9:59:33 AM] Manav Sevak: Yeah hah. a16z funds a lot
+[3/4/26, 10:56:38 AM] Vaibhav Dixit: Pretty interesting
+[3/4/26, 10:58:04 AM] Vaibhav Dixit: I was toying with the idea that maybe our insurance product is the bundled healthcare ai services driving better proactive care and also working actually as insurance (paying out on care)
+[3/4/26, 10:59:36 AM] Vaibhav Dixit: So the nav layer is the digital navigation+the provider nav
+[3/4/26, 11:00:57 AM] Vaibhav Dixit: Hmm this might be super sensitive to pricing with all the negotiations involved though
+[3/4/26, 11:44:24 AM] Manav Sevak: wdym - tell me more
+[3/4/26, 1:06:20 PM] Vaibhav Dixit: Like health insurance expense is already familiar to people and a fixed subscription model already so why not roll in the AI healthcare services as offerings part of that (curated?) premium
+[3/5/26, 9:42:28 AM] Manav Sevak: so partner with existing insurers and distribute as a benefit that's part of their plan?
+[3/5/26, 9:42:44 AM] Manav Sevak: or just launch new insurance products and make the ai services a part of the offering?
+[3/5/26, 9:43:40 AM] Manav Sevak: former is super slow and really hard to get traction - this was a meaningful part of Memora. We sold to insurers. Latter is 10x harder because acquiring members takes a ton of time / is really capital intensive because of the dynamics of how people switch insurance, what people look for, etc
+[3/5/26, 12:26:00 PM] Vaibhav Dixit: I was thinking latter yeah
+[3/5/26, 12:26:19 PM] Manav Sevak: yeah makes sense
+[3/5/26, 12:26:22 PM] Manav Sevak: its the intuitive answer
+[3/5/26, 12:26:23 PM] Vaibhav Dixit: Agreed about the challenges but it seems like a unique position to have
+[3/5/26, 12:26:49 PM] Manav Sevak: but in practice launching an insurance plan is just so insanely hard
+[3/5/26, 12:26:56 PM] Manav Sevak: and the feedback cycles are so slow because of how enrollment works
+[3/5/26, 12:27:16 PM] Vaibhav Dixit: But that's what are doing here aren't we!!
+[3/5/26, 12:27:18 PM] Vaibhav Dixit: 😅😅
+[3/5/26, 12:27:33 PM] Manav Sevak: yeah but after already having a distribution channel
+[3/5/26, 12:28:34 PM] Vaibhav Dixit: I think this is kind of the same argument as I was making on Tuesday (I think) about navigation layer -> distribution but distribution can also be through/because of insurance
+[3/5/26, 12:28:55 PM] Manav Sevak: like there's two paths here:
+
+1. launch in the individual markets in which case most people decide just based on brand value, not cost
+2. launch with employers in which case you have to convince brokers to sell your insurance which is hard and even then employers have to be willing to sign up for it and most just won't unless it's a brand name
+[3/5/26, 12:29:15 PM] Manav Sevak: there's a path to doing this by acquiring captive plans which i think is quite interesting
+[3/5/26, 12:29:16 PM] Manav Sevak: and novel
+[3/5/26, 12:29:23 PM] Manav Sevak: and many investor friends i've talked to about it would agree
+[3/5/26, 12:29:31 PM] Manav Sevak: that niche one is worth exploring IMO
+[3/5/26, 12:29:34 PM] Manav Sevak: or acquiring a TPA
+[3/5/26, 12:29:44 PM] Manav Sevak: but i think zero to one on insurance is just brutal
+[3/5/26, 12:30:03 PM] Vaibhav Dixit: Yes caught up with the captive research that does seem promising
+[3/5/26, 12:30:05 PM] Manav Sevak: i love really hard problems but that one in particular feels like shaving years off your lifespan for incremental and slow progress
+[3/5/26, 12:30:21 PM] Manav Sevak: i find it insane that captives exist
+[3/5/26, 12:30:46 PM] Manav Sevak: they're functionally useless companies outside of getting some group negotiation / rates for managing insurance
+[3/5/26, 12:31:51 PM] Manav Sevak: im down to brainstorm this further
+[3/5/26, 12:32:01 PM] Manav Sevak: im really skeptical of starting a plan from scratch but we should go through the motions
+[3/5/26, 12:32:40 PM] Manav Sevak: have talked to around 10 fmr oscar people who are senior / early (head of commercial small group, head of network, head of ichra, ceo/founder, etc) and all told me its not worth it lol
+[3/5/26, 12:33:26 PM] Manav Sevak: https://www.linkedin.com/pulse/building-future-us-healthcare-harbor-health-team-prdoc/?trackingId=NXY2ry048yYVxH8gXOwlAw%3D%3D
+[3/5/26, 12:33:30 PM] Manav Sevak: https://substack.com/home/post/p-188845136
+[3/5/26, 12:36:24 PM] Vaibhav Dixit: Oh hmm that's a good data point....
+[3/5/26, 12:39:36 PM] Vaibhav Dixit: Brooo this is almost exactly what I am saying
+[3/5/26, 12:51:16 PM] Vaibhav Dixit: Okay so if Stack and harbor are doing this why can't we 😄
+[3/5/26, 1:19:32 PM] Manav Sevak: harbor built a distribution channel with their clinics first
+[3/5/26, 1:19:38 PM] Manav Sevak: they're not going head first into insurance
+[3/5/26, 1:19:45 PM] Manav Sevak: and i think that's the right decision
+[3/5/26, 1:20:08 PM] Manav Sevak: that's also a decision they made after their ceo formerly founded an insurance product that's reached meaningful scale now / recommends not doing it again
+[3/5/26, 1:20:42 PM] Manav Sevak: one of memora's first 10 employees leads all of ops at harbor, talk to her pretty closely about what is/isn't working
+[3/5/26, 1:20:52 PM] Manav Sevak: stack - i looked at starting the newco with alex haha. we're friends
+[3/5/26, 1:21:03 PM] Manav Sevak: im bearish on the approach
+[3/5/26, 1:21:26 PM] Manav Sevak: curious to get your take on how you think we should do it
+[3/5/26, 1:21:35 PM] Manav Sevak: have you had a chance to go deep on it
+[3/5/26, 1:23:08 PM] Manav Sevak: https://paretohealth.com/
+[3/5/26, 1:23:23 PM] Manav Sevak: also worth studying. its not an insurance company but their model is interesting and they're doing well
+[3/5/26, 1:23:26 PM] Manav Sevak: also a very stacked team
+[3/5/26, 1:23:57 PM] Manav Sevak: talking to their cfo in ~6 mins
+[3/5/26, 1:26:09 PM] Manav Sevak: https://www.avanthealth.ai/
+[3/5/26, 1:26:18 PM] Manav Sevak: im an investor in this company; also worth taking a look at it
+[3/5/26, 1:26:34 PM] Manav Sevak: https://gydehealth.ai/
+
+and same with this
+[3/5/26, 1:26:45 PM] Manav Sevak: not an insurer but one degree removed - rolling up brokerages
+[3/5/26, 9:28:10 PM] Vaibhav Dixit: I read it passively last night will put down some thoughts and share
+[3/5/26, 10:12:55 PM] Vaibhav Dixit: How was it? This is interesting they are providing a platform to create captives right
+[3/5/26, 11:52:38 PM] Vaibhav Dixit: https://aws.amazon.com/health/connect-health/
+[3/5/26, 11:52:55 PM] Vaibhav Dixit: Going to be a candidate for A2A implementation for a nav layer
+[3/6/26, 9:56:21 AM] Manav Sevak: ya
+[3/6/26, 9:56:33 AM] Manav Sevak: they are a captive
+[3/6/26, 10:04:02 AM] Manav Sevak: it was really helpful
+[3/6/26, 10:04:09 AM] Manav Sevak: can share notes when we chat next
+[3/6/26, 10:04:31 AM] Manav Sevak: and spent a good chunk of time with the long lake folks yesterday who went deep on buying a health insurer
+[3/6/26, 10:04:58 AM] Manav Sevak: which was a lot more helpful hah; spent time looking at some of the assets they evaluated, how they thought about risk, etc
+[3/6/26, 11:39:13 AM] Vaibhav Dixit: https://llmh.com/
+[3/6/26, 11:39:14 AM] Vaibhav Dixit: This?
+[3/6/26, 11:39:27 AM] Vaibhav Dixit: Was it in person?
+[3/6/26, 11:39:46 AM] Vaibhav Dixit: Really hope you have a lot of notes on this 🥹
+[3/6/26, 11:41:44 AM] Manav Sevak: ya ‎<This message was edited>
+[3/7/26, 12:13:51 AM] Vaibhav Dixit: Thinking more about that Stack article. Two main takeaways for our model:
+
+Their economic hypothesis is flawed: I don't buy the unbundled, individual-level market approach. Consumers don't want to act as their own risk managers. If you force people to piece together high-deductible shells and pay out-of-pocket for everyday care, the financial friction will just stop them from getting proactive treatment altogether.
+
+What I DO like: The 'Subscription for Health' model: Their idea of product-level bundling is spot on. I love the concept of baking proactive care and AI-driven health services directly into the core insurance premium. It shifts the product from a purely financial backstop to an actual health subscription. Obviously, executing that seamlessly—especially bridging our AI layer with the physical, offline care layer—is going to be incredibly hard, but I think we agree (and I believe very strongly) that has to be our product vision.
+[3/7/26, 12:14:44 AM] Vaibhav Dixit: Used gemini to write it down based on thoughts so don't mind the obvious ai writing signs lol
+[3/7/26, 12:37:32 AM] Manav Sevak: https://x.com/kirstenagreen/status/2029966401470070970
+[3/7/26, 1:29:29 AM] Vaibhav Dixit: Made sense
+[3/7/26, 9:52:53 PM] Vaibhav Dixit: Hope you don't take this the wrong way - have you discussed the idea/s at any point with someone from the kotak family? Was doing some deepresearch today on what it'll take to do a health insurance company in India. In general the market is dominated currently by banks' insurance products very low participation from standalone companies
+[3/7/26, 9:53:50 PM] Vaibhav Dixit: As with all entrepreneurial things in India the biggest blockers are all licensing and permisions lol
+[3/7/26, 10:03:49 PM] Vaibhav Dixit: When are we talking next btw? Can you do sometime on Monday?
+[3/8/26, 10:37:05 AM] Manav Sevak: I feel strongly about not doing business with family
+[3/8/26, 10:37:22 AM] Manav Sevak: I'm sure if I asked they'd be happy to help but I haven't / would not want to
+[3/8/26, 10:37:49 AM] Manav Sevak: And they have no exposure to health insurance
+[3/8/26, 10:38:12 AM] Manav Sevak: The family to spend time with for health insurance in India is the Hinduja family which owns a health insurance license and is actively looking to offload it
+[3/8/26, 10:38:37 AM] Manav Sevak: But also not interested in doing business with them (it's a friend) and they have someone lined up to buy the license
+‎[3/8/26, 10:38:52 AM] Manav Sevak: Loop_Health_Series_C_Memo.docx (2).pdf • ‎5 pages ‎<attached: 00000096-Loop_Health_Series_C_Memo.docx (2).pdf>
+[3/8/26, 10:38:55 AM] Manav Sevak: keep confidential pls
+[3/8/26, 10:39:29 AM] Manav Sevak: Let's try for Tuesday
+[3/8/26, 10:39:37 AM] Manav Sevak: Any luck making progress on the items from our list?
+[3/8/26, 10:44:46 AM] Vaibhav Dixit: Oh lol I agree
+[3/8/26, 10:45:58 AM] Vaibhav Dixit: Yes, I haven't put it down in a shareable format let me send something tomorrow morning
+[3/8/26, 10:48:37 AM] Vaibhav Dixit: Ughhh so much overlap. Did you get this for investment?
+[3/8/26, 10:50:20 AM] Vaibhav Dixit: But interesting - I do feel being broker and a nav layer together is an easier/higher likelihood way to acquire customers as compared to a pure nav layer
+[3/8/26, 10:54:20 AM] Vaibhav Dixit: Also a lot more interesting data for actuarial decisions
+[3/9/26, 9:33:17 AM] Vaibhav Dixit: Will you be in EST or PST?
+[3/9/26, 9:34:45 AM] Manav Sevak: Still not sure - figuring it out today based on a few things, will msg later today accordingly
+[3/9/26, 9:34:55 AM] Manav Sevak: And saw your email will go through it
+[3/10/26, 12:01:59 PM] Vaibhav Dixit: https://www.tigerfeathers.in/p/getting-even
+[3/10/26, 12:02:06 PM] Vaibhav Dixit: Very fucking long
+[3/10/26, 12:02:12 PM] Vaibhav Dixit: But really really good
+[3/10/26, 12:02:59 PM] Vaibhav Dixit: And don't worry it's not to keep convincing you about India but the parallels to our ideation and in general a fantastic article on insurance and healthcare
+[3/11/26, 4:59:58 AM] Manav Sevak: Hah, will give it a read
+[3/11/26, 5:00:16 AM] Manav Sevak: Sorry, have been a bit behind. Playing some catch up this week
+[3/11/26, 5:00:24 AM] Manav Sevak: How's your trip?
+[3/11/26, 5:58:47 AM] Vaibhav Dixit: Cool cool, back to NY?
+[3/11/26, 5:59:21 AM] Vaibhav Dixit: It's good bro, nearing the end. Will be back in the Bay Area on Monday
+[3/11/26, 5:59:49 AM] Vaibhav Dixit: Have also been discussing our stuff with some folks couldn't help it hahaha
+[3/11/26, 5:59:56 AM] Vaibhav Dixit: Just like family
+[3/12/26, 2:48:11 AM] Vaibhav Dixit: https://x.com/i/status/2031621546759086096
+[3/30/26, 8:23:25 AM] Vaibhav Dixit: Hey man, hope everything is good. With the radio silence I was hoping to get a clear signal if you are still interested in partnering or I should move on too?
+[3/30/26, 8:27:49 AM] Vaibhav Dixit: I'd be happy to fly to New York this week if you are interested and we can nail things down
+[3/31/26, 8:05:34 PM] Manav Sevak: Hey dude - I'm super sorry. Has been a crazy few weeks
+[3/31/26, 8:05:42 PM] Manav Sevak: Let's chat on Thurs or Fri - what works for you?
+[3/31/26, 8:05:45 PM] Manav Sevak: Can throw something on the calendar
+[3/31/26, 8:06:13 PM] Manav Sevak: I'd still love to figure out if there's a meaningful way to do something together
+[3/31/26, 8:06:54 PM] Vaibhav Dixit: Hope everything is good?
+[3/31/26, 8:07:05 PM] Manav Sevak: Yeah all good - just took on too much work hah
+[3/31/26, 8:07:14 PM] Manav Sevak: Have been in a hole for a few weeks between that and a few friend's weddings
+[3/31/26, 8:07:44 PM] Vaibhav Dixit: Can do most of the day on either of those days
+[3/31/26, 8:08:16 PM] Manav Sevak: 1130a pt on Thurs?
+[3/31/26, 8:08:43 PM] Vaibhav Dixit: Sounds good
+[3/31/26, 8:08:47 PM] Vaibhav Dixit: Send the invite?
+[4/2/26, 11:29:39 AM] Vaibhav Dixit: Google meet right?
+[4/2/26, 11:29:42 AM] Vaibhav Dixit: Or call?
+[4/2/26, 11:31:06 AM] Manav Sevak: I’ll call you in 2 mins
+[4/2/26, 11:31:24 AM] Vaibhav Dixit: Cool
+[4/2/26, 11:33:51 AM] Manav Sevak: ‎Voice call, ‎Answered on other device
